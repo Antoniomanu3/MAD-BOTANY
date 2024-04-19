@@ -12,6 +12,6 @@ Este proyecto es un mapa interactivo en el cual se pueden observar distintar ubi
 - [ ]A cada planta subida, se le asignará una rareza del 1 al 5 siendo este el mayor, la localización, la época del año en la que aparecen, una descripción de dicha planta e información relevante sobre su cuidado.
 
 ## Contacto 📧
-Si tienes alguna sugerencia o duda, contacta a >crear nuevo correo. 👀
+Si tienes alguna sugerencia o duda, contacta a **mad.btany@gmail.com.** 👀
 
 🌹¡De la botánica a la locura!🌹
